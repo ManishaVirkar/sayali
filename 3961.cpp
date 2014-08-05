@@ -8,6 +8,7 @@ int main()
   cout<<"Enter the two number":
   cin>>a>>b;
   int c=a+b;
-  cout<<"welcome...";
+  
+  cout<<"sum is....";
   return 0;
   }
