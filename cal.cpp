@@ -6,6 +6,7 @@ int main()
 
  cout<<"hi....";
  cout<<"hello..";
+ cout<<"how are u...";
  return 0;
  }
  
